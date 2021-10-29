@@ -1,0 +1,41 @@
+
+        div {
+            border-style: solid;
+            border: blue 1px solid;
+         height: 500px;
+           
+            display: flex;
+            border-style: solid;
+            justify-content: space-between;
+            align-items: center;
+
+        }
+
+        .demo1 {
+            padding: 20px 20px 20px 20px;
+            width: 150px;
+            height: 120px;
+            border: #f00 2px solid;
+        }
+
+        .demo2 {
+            padding: 20px 20px 20px 20px;
+            width: 150px;
+            height: 100px;
+            border: #f00 2px solid;
+        }
+
+        .demo3 {
+            padding: 20px 20px 20px 20px;
+            width: 150px;
+            height: 40px;
+            border: #f00 2px solid;
+        }
+
+        .demo4 {
+            padding: 20px 20px 20px 20px;
+            width: 150px;
+            height: 200px;
+            border: #f00 2px solid;
+        }
+  
